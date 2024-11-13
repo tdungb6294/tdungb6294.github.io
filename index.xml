@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>The Dung Bui website</title>
-    <link>http://localhost:1313/</link>
+    <link>https://tdungb6294.github.io/</link>
     <description>Recent content on The Dung Bui website</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Nov 2024 20:28:12 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tdungb6294.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello</title>
-      <link>http://localhost:1313/posts/hello/</link>
+      <link>https://tdungb6294.github.io/posts/hello/</link>
       <pubDate>Wed, 13 Nov 2024 20:28:12 +0200</pubDate>
-      <guid>http://localhost:1313/posts/hello/</guid>
+      <guid>https://tdungb6294.github.io/posts/hello/</guid>
       <description>&lt;p&gt;This is my &lt;strong&gt;first post&lt;/strong&gt; on Hugo! I&amp;rsquo;m learning how to use this powerful static site generator.
-&lt;img alt=&#34;Hello guys!&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/a.png&#34;&gt;&lt;/p&gt;</description>
+&lt;img alt=&#34;Hello guys!&#34; loading=&#34;lazy&#34; src=&#34;https://tdungb6294.github.io/a.png&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
